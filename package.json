@@ -108,7 +108,7 @@
     "pug": "3.0.2",
     "recursive-readdir": "2.2.2",
     "simplecrawler": "1.1.9",
-    "tape": "4.13.0",
+    "tape": "5.8.1",
     "text-table": "0.2.0",
     "uuid": "8.3.2",
     "yargs": "17.0.1"
